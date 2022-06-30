@@ -3,9 +3,7 @@
 ![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/md7Oqrf.gif)
 ##### Respect MrK4US4R
 
-##### Menu Crack
-<a href="https://ibb.co/HqL1CTK"><img src="Screenshot_20220630-160536.jpg" alt="Screenshot_20220630-160536.jpg" border="0"></a>
-##### Results
+
 
 ##### INSTALL
 ```shell
